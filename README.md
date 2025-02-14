@@ -15,7 +15,9 @@ key findings-:
 5. In APEC Region India ranks 1 in terms of Total Gross Sales.
 
 Repository contents-:
-SQL Queries: Contains the SQL queries used to extract and analyze data from the AtliQ Hardwares dataset.
+1. SQL Queries: Contains the SQL queries used to extract and analyze data from the AtliQ Hardwares dataset.
+   SQL Queries.pdf
+2. PPT -: Finance & Supply Chain Analytics - SQL PROJECT.pptx
    
 
 
