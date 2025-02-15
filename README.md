@@ -16,7 +16,7 @@ key findings-:
 
 Repository contents-:
 1. SQL Queries: Contains the SQL queries used to extract and analyze data from the AtliQ Hardwares dataset.
-   SQL Queries.pdf
+ "C:\Users\Saurabh\Downloads\SQLQueries.pdf"
 2. PPT -: Finance & Supply Chain Analytics - SQL PROJECT.pptx
    
 
